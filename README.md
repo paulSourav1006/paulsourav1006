@@ -8,7 +8,7 @@
     [Github](https://github.com/paulSourav1006)
     [Email](sourabhpaul206@gmail.com)
    
-- 💬 Ask me about Java/Microservices or any tech-related stuff.
+- 💬 Ask me about Java/Full stack web or any tech-related stuff.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Backend Java developers are like digital architects 🏛️, crafting the invisible structures that power apps. Their code is the hidden machinery 🛠️, ensuring everything runs smoothly behind the scenes. 🌟💻
 
