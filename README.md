@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working for [UOB SME](https://www.uob.com.sg/business/index.page)
 - 🌱 I’m currently learning ReactJS & Data structures & algorithm.
-- 💼 For my work you can visit my [portfolio](https://github.com/pankajjangid/Portfolio)
+- 💼 For my work you can visit my [portfolio](https://paulsourav1006.github.io/)
 - 📫 How to reach me:
     [Linkedin](www.linkedin.com/in/sourav-paul-9603a01b8/)
     [Github](https://github.com/paulSourav1006)
